@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "olá mundo"
+
+echo "Olá $(whoami)"
